@@ -7,6 +7,7 @@ I'm Rahul, a developer passionate about web development.
 
 ![c++](https://img.shields.io/badge/c++-61DAFB?style=for-the-badge&logo=c++&logoColor=black)
 ![c](https://img.shields.io/badge/c-3776AB?style=for-the-badge&logo=c&logoColor=white)
+![vscode](https://img.shields.io/badge/vs-61DAFB?style=for-the-badge&logo=VS&logoColor=black)
 
 
 ![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaborate-success)
