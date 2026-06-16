@@ -26,7 +26,7 @@
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-<h2 align="center">Connect With Me</h2>
+<h2 align="center"> Connect With Me</h2>
 
 <p align="center">
   <a href="https://instagram.com/rahulnekrappady">
@@ -38,6 +38,6 @@
   </a>
 
   <a href="mailto:nekrappadyrahul@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="50" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   </a>
 </p>
