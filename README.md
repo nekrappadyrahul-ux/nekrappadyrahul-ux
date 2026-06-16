@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:111111,100:222222&text=RAHUL%20N&fontColor=FFD700&fontSize=80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=60&pause=999999&color=FFD700&center=true&vCenter=true&width=800&lines=RAHUL+N" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Building+Awesome+Projects;Python+Developer;C%2FC%2B%2B+Programmer;Open+Source+Learner" />
