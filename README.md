@@ -1,10 +1,4 @@
-<div align="center">
 
-# 🚀 Rahul N
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=800&lines=💻+Developer;🐍+Python+Programmer;⚛️+React+Developer;🔥+Firebase+Learner;⚡+C%2B%2B+Enthusiast;🚀+Building+Cool+Projects" />
-
-</div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=200&section=header&text=Rahul%20N&fontSize=50&fontColor=ffffff"/>
 </p>
@@ -12,7 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Rahul%20N&fontSize=50"/>
 </p>
 
-<h2 align="center">💻 Developer | Python | React | C/C++</h2>
+<h2 align="center">Developer | Python | Java| C/C++</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Building+Awesome+Projects;Python+Developer;React+Developer;C%2FC%2B%2B+Programmer;Open+Source+Learner" />
