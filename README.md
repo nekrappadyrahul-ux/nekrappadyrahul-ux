@@ -5,6 +5,9 @@
      RAHUL.N 
   </span>
 </h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=FFD700&text=RAHUL%20N&fontColor=000000&fontSize=70&animation=fadeIn&fontAlignY=40" />
+</p>
 
 
 </div>
