@@ -26,18 +26,22 @@
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-<h3 align="center">Connect With Me</h3>
+<h2 align="center">Connect With Me</h2>
 
 <p align="center">
-  <a href="https://instagram.com/rahulnekrappady" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@rahulnekrappady-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/rahulnekrappady/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="35" />
   </a>
 
-  <a href="https://www.linkedin.com/in/rahul-nekrappady" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Rahul%20Nekrappady-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/rahul-nekrappady/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
   </a>
+
+  &nbsp;&nbsp;&nbsp;
 
   <a href="mailto:nekrappadyrahul@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-nekrappadyrahul@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="35" />
   </a>
 </p>
