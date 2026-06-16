@@ -1,7 +1,13 @@
-<p align="center">
-  <h3>   "RAHUL.N"</h3>
+<div align="center">
 
-</p>
+<h1>
+  <span style="color:#FFD700;">
+     RAHUL.N 
+  </span>
+</h1>
+
+
+</div>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Building+Awesome+Projects;Python+Developer;C%2FC%2B%2B+Programmer;Open+Source+Learner" />
 </p>
