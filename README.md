@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=RAHUL.N" />
+  <h3>   "RAHUL.N"</h3>
+
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Building+Awesome+Projects;Python+Developer;C%2FC%2B%2B+Programmer;Open+Source+Learner" />
