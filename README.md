@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=nekrappadyrahul-ux&style=for-the-badge)
 ## Skills & Tools
 
 ### Languages
