@@ -5,7 +5,8 @@ I'm Rahul, a developer passionate about web development.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![c++](https://img.shields.io/badge/c++-61DAFB?style=for-the-badge&logo=c++&logoColor=black)
+![c](https://img.shields.io/badge/c-61DAFB?style=for-the-badge&logo=c&logoColor=black)
 
 ![Open to Collaborate](https://img.shields.io/badge/Open%20to-Collaborate-success)
 
