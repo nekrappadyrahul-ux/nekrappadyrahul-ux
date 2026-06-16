@@ -5,6 +5,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=800&lines=💻+Developer;🐍+Python+Programmer;⚛️+React+Developer;🔥+Firebase+Learner;⚡+C%2B%2B+Enthusiast;🚀+Building+Cool+Projects" />
 
 </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=200&section=header&text=Rahul%20N&fontSize=50&fontColor=ffffff"/>
+</p>
 ## Skills & Tools
 
 ### Languages
