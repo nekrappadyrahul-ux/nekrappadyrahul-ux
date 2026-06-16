@@ -1,14 +1,6 @@
-<div align="center">
-
-<h1>
-  <span style="color:#FFD700;">
-     RAHUL.N 
-  </span>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=RAHUL%20N&fontSize=80&color=FFD700&fontColor=000000" />
 </p>
-
-
-</div>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Building+Awesome+Projects;Python+Developer;C%2FC%2B%2B+Programmer;Open+Source+Learner" />
 </p>
