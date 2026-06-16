@@ -1,13 +1,9 @@
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Rahul%20N&fontSize=50"/>
-</p>
 
-<h2 align="center">Developer | Python | Java| C/C++</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Building+Awesome+Projects;Python+Developer;React+Developer;C%2FC%2B%2B+Programmer;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Building+Awesome+Projects;Python+Developer;C%2FC%2B%2B+Programmer;Open+Source+Learner" />
 </p>
 ## Skills & Tools
 
