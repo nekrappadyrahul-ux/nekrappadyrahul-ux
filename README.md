@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=200&section=header&text=Rahul%20N&fontSize=50&fontColor=ffffff"/>
-</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Rahul%20N&fontSize=50"/>
 </p>
