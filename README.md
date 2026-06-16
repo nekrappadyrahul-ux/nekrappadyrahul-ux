@@ -30,6 +30,7 @@
 
 <table align="center">
 <tr>
+
 <td align="center">
 <a href="https://www.instagram.com/rahulnekrappady/">
 <img src="https://skillicons.dev/icons?i=instagram" height="35"/><br>
@@ -37,24 +38,23 @@
 </a>
 </td>
 
-<td width="50"></td>
+<td width="60"></td>
 
 <td align="center">
 <a href="https://www.linkedin.com/in/rahul-nekrappady/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="35"/><br>
-<sub>LinkedIn</sub>
+<sub>@rahulnekrappady</sub>
 </a>
 </td>
 
-<td width="50"></td>
+<td width="60"></td>
 
 <td align="center">
 <a href="mailto:nekrappadyrahul@gmail.com">
 <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="35"/><br>
-<sub>Gmail</sub>
+<sub>nekrappadyrahul@gmail.com</sub>
 </a>
 </td>
+
 </tr>
 </table>
-  </a>
-</p>
