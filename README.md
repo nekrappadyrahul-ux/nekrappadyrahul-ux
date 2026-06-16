@@ -26,3 +26,16 @@
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <a href="https://instagram.com/rahulnekrappady">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/rahul-nekrappady">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+
+  <a href="mailto:nekrappadyrahul@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="50" />
+  </a>
+</p>
