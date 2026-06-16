@@ -26,25 +26,35 @@
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-<h3 align="center">Connect With Me</h3>
+<h2 align="center">🌐 Connect With Me</h2>
 
-<p align="center">
-  <a href="https://www.instagram.com/rahulnekrappady/">
-    <img src="https://skillicons.dev/icons?i=instagram" height="35" /><br>
-    <sub>@rahulnekrappady</sub>
-  </a>
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://www.instagram.com/rahulnekrappady/">
+<img src="https://skillicons.dev/icons?i=instagram" height="35"/><br>
+<sub>@rahulnekrappady</sub>
+</a>
+</td>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td width="50"></td>
 
-  <a href="https://www.linkedin.com/in/rahul-nekrappady/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35" /><br>
-    <sub>Rahul Nekrappady</sub>
-  </a>
+<td align="center">
+<a href="https://www.linkedin.com/in/rahul-nekrappady/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="35"/><br>
+<sub>LinkedIn</sub>
+</a>
+</td>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td width="50"></td>
 
-  <a href="mailto:nekrappadyrahul@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="35" /><br>
-    <sub>Gmail</sub>
+<td align="center">
+<a href="mailto:nekrappadyrahul@gmail.com">
+<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="35"/><br>
+<sub>Gmail</sub>
+</a>
+</td>
+</tr>
+</table>
   </a>
 </p>
