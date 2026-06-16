@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Building+Awesome+Projects;Python+Developer;C%2FC%2B%2B+Programmer;Open+Source+Learner" />
 </p>
-## Skills & Tools
+<H3>SKILLS & TOOLS</H3>
 
 ### Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
