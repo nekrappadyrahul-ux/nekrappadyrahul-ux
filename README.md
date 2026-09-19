@@ -32,7 +32,7 @@
 <tr>
 
 <td align="center">
-<a href="https://www.instagram.com/rahulnekrappady/">
+<a href="https://www.instagram.com/rahul_nekrappady/">
 <img src="https://skillicons.dev/icons?i=instagram" height="35"/><br>
 <sub>@rahulnekrappady</sub>
 </a>
